@@ -1,4 +1,4 @@
-#****Ara Oshikoya's Excel And Sql-Portfolio***
+#****Ara Oshikoya's Excel And SQL-Portfolio***
 
 ## Welcome to my Excel and SQL portfolio. This code repository contains examples of SQL I have written,	and the links to the interactive dashboards that I have created using Excel. Please feel free to take a look and reach out to me if you have any questions via	my email: ara.oshikoya@gmail.com										
 
