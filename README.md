@@ -1,6 +1,6 @@
-# ****Ara Oshikoya's Excel And Sql-Portfolio***
+#****Ara Oshikoya's Excel And Sql-Portfolio***
 
-## Welcome to my Excel and SQL portfolio. This code repository contains examples of SQL I have written.																				and the links to the interactive dashboards that I have created using Excel.																															Please feel free to take a look and reach out to me if you have any questions via 																												email: ara.oshikoya@gmail.com										
+## Welcome to my Excel and SQL portfolio. This code repository contains examples of SQL I have written,	and the links to the interactive dashboards that I have created using Excel. Please feel free to take a look and reach out to me if you have any questions via	my email: ara.oshikoya@gmail.com										
 
 
 _____________________________________
@@ -9,7 +9,7 @@ _____________________________________
 --- The data is accessible to the public at https://techavilly.net/download-data/
 
 
----To view the entire table in order to get familiar with the data set, I ran this query;
+---To view the entire table in order to get familiar with the data set, I ran this query first ;
 
 ***Select * from [dbo].[Orders]
 
