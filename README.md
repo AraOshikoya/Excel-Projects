@@ -57,7 +57,8 @@ _____________________________________
 **Find the Total Annual Sales for 2017, 2018,2019 and 2020
 **Find the Total Sales for each State, also find the Total Sales by Segment, Category, Region and SubCategory
 
-![image](https://github.com/AraOshikoya/Excel-Projects/assets/132147652/59d4336e-ab7e-4dda-9947-8220f064f8cb)
+![image](https://github.com/AraOshikoya/Excel-Projects/assets/132147652/558b87f7-9426-4a8e-8296-de053455a9a4)
+
 
 
 
