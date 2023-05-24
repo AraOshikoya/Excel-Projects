@@ -9,7 +9,7 @@ _____________________________________
 --- The data is accessible to the public at https://techavilly.net/download-data/
 
 
----To view the entire table in order to get familiar with the data set, I ran this query first ;
+---To view the entire table in order to get familiar with the data set, I ran this first query;
 
 ***Select * from [dbo].[Orders]
 
@@ -52,6 +52,12 @@ _____________________________________
 **Pull The Top 10 Products Sold in Texas in 2017
 
 ![image](https://github.com/AraOshikoya/Excel-Projects/assets/132147652/2fd006c0-0791-4bd4-901c-73028bc92947)
+
+
+**Find the Total Annual Sales for 2017, 2018,2019 and 2020
+**Find the Total Sales for each State, also find the Total Sales by Segment, Category, Region and SubCategory
+
+![image](https://github.com/AraOshikoya/Excel-Projects/assets/132147652/59d4336e-ab7e-4dda-9947-8220f064f8cb)
 
 
 
